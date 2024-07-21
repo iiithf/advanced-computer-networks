@@ -70,6 +70,23 @@ protocols for sharing resources.
 - [Free IP address to ASN database](https://iptoasn.com)
 - [ASN Lookup & Information](https://www.ultratools.com/tools/asnInfoResult?domainName=223.230.16.1)
 - [Geo Traceroute](https://geotraceroute.com/?node=1550&host=www.nitrkl.ac.in)
+- [PeeringDB: The Interconnection Database](https://www.peeringdb.com)
+- [DataCenter Map: Internet Exchange Points](https://www.datacentermap.com/ixp/)
+- [Packet Clearing House (PCH): Internet Exchange Directory](https://www.pch.net/ixp/dir)
+- [List of Internet exchange points](https://en.wikipedia.org/wiki/List_of_Internet_exchange_points)
+- [Google Edge Network](https://peering.google.com/?authuser=0#/options/peering)
+- [Introduction to IP Multicast Routing](https://www.rigacci.org/docs/biblio/online/multicast/)
+- [Network Layer: Delivery, Forwarding, and Routing](https://www.slideserve.com/fleta/chapter-22-network-layer-delivery-forwarding-and-routing)
+- [Internet Multicasting Routing: DVMRP](https://slideplayer.com/slide/10022842/)
+- [DVMRP: Distance Vector Multicast Routing Protocol](https://www.slideserve.com/hyacinth-david/dvmrp)
+- [Cisco CCNA Dynamic Routing Part II: Distance Vector Routing Protocol](https://www.certificationkits.com/cisco-certification/cisco-ccna-640-802-exam-certification-guide/cisco-ccna-dynamic-routing-part-ii/)
+- [Distance Vector routing Protocol - What is Distance Vector routing?](https://ecomputernotes.com/computernetworkingnotes/routing/explain-distance-vector-routing-protocol-in-detail)
+- [Dynamic Routing: Distance Vector Routing Protocols](https://slideplayer.com/slide/8623641/)
+- [National Knowledge Network (NKN): Detailed Design](https://nkn.gov.in/en/design-and-architecture-lt-en/detailed-design-lt-en)
+- [Simple NS2 Projects with Source Code for Students](https://in.pinterest.com/pin/549087379548688824/)
+- [NAT Slipstreaming v2.0](https://samy.pl/slipstream/)
+
+<!-- - [List of semiconductor fabrication plants](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants) -->
 
 
 [Prof. Shatrunjay Rawat]: https://www.iiit.ac.in/people/faculty/shatrunjay.rawat/
