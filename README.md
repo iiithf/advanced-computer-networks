@@ -88,5 +88,6 @@ protocols for sharing resources.
 
 <!-- - [List of semiconductor fabrication plants](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants) -->
 
+![](https://ga-beacon.deno.dev/G-4FTHWYCNMC:Ze0vK3cdTmSz-bzSssU1-Q/github.com/iiithf/advanced-computer-networks)
 
 [Prof. Shatrunjay Rawat]: https://www.iiit.ac.in/people/faculty/shatrunjay.rawat/
